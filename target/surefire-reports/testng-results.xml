@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13615" started-at="2021-01-17T17:53:59Z" finished-at="2021-01-17T17:54:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13615" started-at="2021-01-17T17:53:59Z" finished-at="2021-01-17T17:54:13Z">
+      <class name="SanityTests.myFitnessPalWeb">
+        <test-method status="PASS" signature="startSession()[pri:0, instance:SanityTests.myFitnessPalWeb@512d92b]" name="startSession" is-config="true" duration-ms="11179" started-at="2021-01-17T17:53:59Z" finished-at="2021-01-17T17:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startSession -->
+        <test-method status="PASS" signature="test01_verifyMainHeader()[pri:0, instance:SanityTests.myFitnessPalWeb@512d92b]" name="test01_verifyMainHeader" duration-ms="170" started-at="2021-01-17T17:54:10Z" description="Test 01: Home Page Main Header" finished-at="2021-01-17T17:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01_verifyMainHeader -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTests.myFitnessPalWeb@512d92b]" name="afterMethod" is-config="true" duration-ms="1005" started-at="2021-01-17T17:54:11Z" finished-at="2021-01-17T17:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:SanityTests.myFitnessPalWeb@512d92b]" name="closeSession" is-config="true" duration-ms="1089" started-at="2021-01-17T17:54:12Z" finished-at="2021-01-17T17:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- SanityTests.myFitnessPalWeb -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

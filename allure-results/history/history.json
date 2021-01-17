@@ -1,14 +1,81 @@
 {
+  "3396a7cae3f726136db76bfb954cd73d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d49b1cda2e81ff45",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/13/allure/#testresult/d49b1cda2e81ff45",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained jss24 jss25 jss26 jss30 MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall']\"}\n  (Session info: chrome=87.0.4280.141)\n  (Driver info: chromedriver=87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 10.04 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'DESKTOP-VUF2N1B', ip: '192.168.14.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57342}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}), userDataDir=C:\\Users\\erez3\\AppData\\Local\\Temp\\scoped_dir28088_1024971783}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.141, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: db228e6ed135c8366a43f41c83f2d89a\n*** Element info: {Using=xpath, value=//button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained jss24 jss25 jss26 jss30 MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall']}",
+      "time" : {
+        "start" : 1610904818805,
+        "stop" : 1610904818807,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "c905b228fbfb9f98",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/12/allure/#testresult/c905b228fbfb9f98",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained jss24 jss25 jss26 jss30 MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall']\"}\n  (Session info: chrome=87.0.4280.141)\n  (Driver info: chromedriver=87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 10.04 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'DESKTOP-VUF2N1B', ip: '192.168.14.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57342}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}), userDataDir=C:\\Users\\erez3\\AppData\\Local\\Temp\\scoped_dir28088_1024971783}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.141, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: db228e6ed135c8366a43f41c83f2d89a\n*** Element info: {Using=xpath, value=//button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained jss24 jss25 jss26 jss30 MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall']}",
+      "time" : {
+        "start" : 1610904818805,
+        "stop" : 1610904818807,
+        "duration" : 2
+      }
+    } ]
+  },
   "d650eab43f1a39fb786cb6d9152e75b8" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 7,
       "unknown" : 0,
-      "total" : 3
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "a708a32f79613c57",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/13/allure/#testresult/a708a32f79613c57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609178007129,
+        "stop" : 1609178030701,
+        "duration" : 23572
+      }
+    }, {
+      "uid" : "3fab49c496ed57f7",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/12/allure/#testresult/3fab49c496ed57f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609178007129,
+        "stop" : 1609178030701,
+        "duration" : 23572
+      }
+    }, {
+      "uid" : "209b02f3eb4f58fc",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/11/allure/#testresult/209b02f3eb4f58fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609178007129,
+        "stop" : 1609178030701,
+        "duration" : 23572
+      }
+    }, {
+      "uid" : "5a4441aaf62cb8b4",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/10/allure/#testresult/5a4441aaf62cb8b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609178007129,
+        "stop" : 1609178030701,
+        "duration" : 23572
+      }
+    }, {
       "uid" : "60dddf9a17b3a71c",
       "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/9/allure/#testresult/60dddf9a17b3a71c",
       "status" : "passed",
@@ -42,11 +109,47 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 7,
       "unknown" : 0,
-      "total" : 3
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "99e29773a3881b04",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/13/allure/#testresult/99e29773a3881b04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609177957932,
+        "stop" : 1609177977108,
+        "duration" : 19176
+      }
+    }, {
+      "uid" : "bdb2d4ffaba3574e",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/12/allure/#testresult/bdb2d4ffaba3574e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609177957932,
+        "stop" : 1609177977108,
+        "duration" : 19176
+      }
+    }, {
+      "uid" : "1dfa0b2d238fc9f5",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/11/allure/#testresult/1dfa0b2d238fc9f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609177957932,
+        "stop" : 1609177977108,
+        "duration" : 19176
+      }
+    }, {
+      "uid" : "afdfbd7322917745",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/10/allure/#testresult/afdfbd7322917745",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609177957932,
+        "stop" : 1609177977108,
+        "duration" : 19176
+      }
+    }, {
       "uid" : "4ff75670935bd8df",
       "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/9/allure/#testresult/4ff75670935bd8df",
       "status" : "passed",
@@ -80,11 +183,47 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 7,
       "unknown" : 0,
-      "total" : 3
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "7f1aa7b3088ce1ae",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/13/allure/#testresult/7f1aa7b3088ce1ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609178105812,
+        "stop" : 1609178126374,
+        "duration" : 20562
+      }
+    }, {
+      "uid" : "806bd6bb1b5ca94c",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/12/allure/#testresult/806bd6bb1b5ca94c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609178105812,
+        "stop" : 1609178126374,
+        "duration" : 20562
+      }
+    }, {
+      "uid" : "ff37cfc6a7fcb465",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/11/allure/#testresult/ff37cfc6a7fcb465",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609178105812,
+        "stop" : 1609178126374,
+        "duration" : 20562
+      }
+    }, {
+      "uid" : "428d45479b670452",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/10/allure/#testresult/428d45479b670452",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609178105812,
+        "stop" : 1609178126374,
+        "duration" : 20562
+      }
+    }, {
       "uid" : "a062abaefa22e598",
       "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/9/allure/#testresult/a062abaefa22e598",
       "status" : "passed",
@@ -110,6 +249,35 @@
         "start" : 1609178105812,
         "stop" : 1609178126374,
         "duration" : 20562
+      }
+    } ]
+  },
+  "f6487175c03924c9cd7d27daa8dafc03" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "a0f4bc28558271a8",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/13/allure/#testresult/a0f4bc28558271a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610905098315,
+        "stop" : 1610905098379,
+        "duration" : 64
+      }
+    }, {
+      "uid" : "6d0bfe16841bdaaa",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/12/allure/#testresult/6d0bfe16841bdaaa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610905098315,
+        "stop" : 1610905098379,
+        "duration" : 64
       }
     } ]
   }

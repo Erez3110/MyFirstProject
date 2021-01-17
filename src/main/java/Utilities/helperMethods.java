@@ -42,7 +42,7 @@ public class helperMethods extends commonOps
 
     public static void closePopUp()
     {
-        WebElement button = driver.findElement(By.xpath("//button[@class='MuiButtonBase-root MuiButton-root MuiButton-contained jss24 jss25 jss26 jss30 MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall']"));
+        WebElement button = driver.findElement(By.xpath("//span/div[contains(text(), \"GOT IT\")]"));
         if(button.isDisplayed())
         {
             button.click();

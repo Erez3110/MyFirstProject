@@ -1,4 +1,36 @@
 [ {
+  "buildOrder" : 16,
+  "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/16/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 1,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/13/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 5,
+    "retry" : 7
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/12/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 5,
+    "retry" : 7
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 3,
+    "retry" : 1
+  }
+}, {
   "buildOrder" : 10,
   "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20MyFitnessPal%20Web/10/allure",
   "reportName" : "AllureReport",
